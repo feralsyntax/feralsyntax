@@ -17,16 +17,3 @@ I'm a full-stack software developer based in Kenya. I'm interested in building i
 
 ### Other
 `Git` `REST APIs` `OpenAPI` `Railway` `Firebase` `Cloudinary`
-
-## Selected work
-### [Portfolio](https://github.com/feralsyntax/portfolio-fe)
-
-- My personal portfolio and a place to document the software I've built.
-- Built with `Angular` `Django` `Python` `JavaScript` `TypeScript` `HTML` `SCSS` `PostgreSQL`
-- Live site: [benie.dev](https://benie.dev)
-
-### [LogOnGo](https://github.com/feralsyntax/logongo-front)
-
-- An automated fuel station management system designed to replace manual record-keeping and reporting workflows.
-- Built with `Angular` `Django` `Python` `JavaScript` `TypeScript` `HTML` `CSS` `PostgreSQL`
-- Live site: [LogOnGo](https://log-on-go.web.app)
